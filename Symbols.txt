@@ -1,0 +1,2 @@
+~! == partially meets the goal
+! == does no meet the goal
